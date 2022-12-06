@@ -1,5 +1,5 @@
 {
-    "name": "nedac/sylius-minimum-order-value-plugin",
+    "name": "ahmed-omani/sylius-minimum-order-value-plugin",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin", "minimum", "order", "value"],
     "description": "With this Sylius plugin a minimum order value can be set for each channel.",
